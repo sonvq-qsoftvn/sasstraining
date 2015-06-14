@@ -1,0 +1,15 @@
+http://www.slideshare.net/adarowski/sassive-aggressive-using-sass-to-make-your-life-easier-nswg-version
+
+http://www.slideshare.net/nickcooley/advanced-sasscompass
+
+https://speakerdeck.com/imathis/sass-compass-the-future-of-stylesheets-now
+
+https://docs.google.com/presentation/d/13TQ7wKYdwKPkOJe0TSmG6naUHHa1-HiER7bmg3YWnjA/edit#slide=id.g2ef5060a_0_46
+
+http://slidedeck.io/chaddattilio/sass-presentation
+
+http://www.slideshare.net/webbeh/sasskey
+
+http://www.slideshare.net/anthonyalbertyn/sass-andcompass
+
+http://takazudo.github.io/presentation-oocss-sass/#/5
