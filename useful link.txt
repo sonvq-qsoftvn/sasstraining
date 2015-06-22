@@ -9,3 +9,8 @@ http://www.hongkiat.com/blog/sass-vs-less/
 http://lesscss.org/
 
 https://css-tricks.com/sass-vs-less/
+
+
+http://jurs.me/scss-cheat-sheet/
+http://sass-cheatsheet.brunoscopelliti.com/
+http://www.cheatography.com/tag/sass/
